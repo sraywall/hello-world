@@ -1,0 +1,12 @@
+body{
+  font-family: arial,helvetica,sans-serif;
+}
+#container{
+  margin: 0 auto;/*horizontal width of an element*/
+  width: 600px;/*spacing on the outside of the element*/
+  background: #FFFFFF;
+}
+#content{
+  clear:left;/*no elements can appear on the side of the element to which the rule applies*/
+  padding: 20px;
+}
