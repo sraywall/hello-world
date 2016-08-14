@@ -8,9 +8,14 @@ span{
 
 body{
   font-family:arial, helvetica, sans-serif;
+  background-color: #FFFF00;
 }
 
 .addBorder{
   border: 3px double black;
   padding:5px;
+}
+
+div span{
+  background-color: #FF0000;
 }
